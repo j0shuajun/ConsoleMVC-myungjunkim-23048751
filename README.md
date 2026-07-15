@@ -24,8 +24,15 @@
 
 ## 실행 환경
 
-- 구현 언어: Python
+- 구현 언어: Python (표준 라이브러리만 사용, 외부 의존성 없음)
 - 데이터는 메모리에만 보관합니다 (영속성은 [DataPersistence PoC](https://github.com/j0shuajun/DataPersistence-myungjunkim-23048751) 참고).
+
+## 실행 방법
+
+```bash
+cd src
+python3 main.py
+```
 
 ## 문서
 
